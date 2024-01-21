@@ -1,0 +1,22 @@
+
+div {
+    width: 300px;
+    margin: 20px;
+  }
+  
+  div p {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+  div p:first-child {
+    background-color: yellow;
+    color: red;
+  }
+
+  h1{
+    text-align: center;
+  }
+  
